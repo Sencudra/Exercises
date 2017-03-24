@@ -1,0 +1,2 @@
+# Exercises
+Just for fun
