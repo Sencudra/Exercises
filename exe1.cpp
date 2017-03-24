@@ -1,9 +1,8 @@
-#include <iostream>
-#include <string>
-#include <windows.h>
-#include <fstream>
+#include <iostream> //библиотека ... потоковый ввод вывод в консоль
+#include <string>  // строки
+#include <fstream> // потоковая работа с файлами
 
-using namespace std;
+using namespace std; // пространство имен для iostream
 
 const int lmax = 100;
 
