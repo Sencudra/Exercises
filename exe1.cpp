@@ -106,7 +106,7 @@ struct tournament{
 int main()
 {
     ifstream lolinput;
-    lolinput.open("C:\\Users\\Vlad\\Desktop\\test.txt");
+    lolinput.open("C:\\test.txt"); //Адрес файла
     
     ////////////////////////////////////////////////////////
     
